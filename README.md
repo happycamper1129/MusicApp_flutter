@@ -19,39 +19,5 @@ To use features of firebase in app you will have to paste your own keys at andro
 google-services.json
 ```
 
-### Built With
 
-Following is list of  libraries used in app.
-1) [Rxdart](https://pub.dartlang.org/packages/rxdart)-Communication between different screens of app.
-2) [AudioPlayer](https://pub.dartlang.org/packages/audioplayer)-Playing music
-3) [Firebase](https://pub.dartlang.org/packages/firebase_database)-Creating playlists and storing recent searches,
-4) [Device info](https://pub.dartlang.org/packages/device_info)-Getting unique id of user.
-5) [Shared Preferences](https://pub.dartlang.org/packages/shared_preferences)-Storing settings
-6) [Url launcher](https://pub.dartlang.org/packages/url_launcher)-Opening url.
-7) [Share](https://pub.dartlang.org/packages/share)-Sharing link
-
-## Widgets
-
-Following is list of important wigdets used in app.(Can't list all 😁)
-1) [Navigator](https://docs.flutter.io/flutter/widgets/Navigator-class.html)😍
-2) [WillPopScope](https://docs.flutter.io/flutter/widgets/WillPopScope-class.html)
-3) [BackdropFilter](https://docs.flutter.io/flutter/widgets/BackdropFilter-class.html)
-4) [ClipRRect](https://docs.flutter.io/flutter/widgets/ClipRRect-class.html)
-5) [CupertinoSliverNavigationBar](https://docs.flutter.io/flutter/cupertino/CupertinoSliverNavigationBar-class.html) 
-
-## Authors
-
-* **Bhavneet Singh**  - [singhbhavneet](https://github.com/singhbhavneet)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## How can I support developers?
-- Star our GitHub repo
-- Create pull requests, submit bugs, suggest new features or documentation updates
-
-
-## Can I hire you guys?
-Yes! We are available for hire. Visit [our homepage](https://ocg.technology/) or simply leave us a note to contact@ocg.technology. We will be happy to work with you!
 
